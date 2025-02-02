@@ -2,7 +2,7 @@
 
 ### Carlos Eduardo P. Yamada
 
-Aluno de Engenharia de Computação pelo Insper.
+Aluno de Engenharia de Computação pelo Insper, atualmente no 7º período da graduação.
 
 <a href="https://github.com/kadu-ymd/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kadu-ymd&layout=donut" />
